@@ -1,0 +1,9 @@
+total 4
+-rw-r--r-- 1 root root  0 Sep 14 14:30 :
+drwxr-xr-x 2 root root  6 Mar 29  2022 empty_directory
+-rw-r--r-- 1 root root  0 Sep 14 14:31 ls_xyz.txt
+-rw-r--r-- 1 root root  0 Mar 29  2022 not_here
+-rw-r--r-- 1 root root  0 Mar 29  2022 old_school
+-rw-r--r-- 1 root root  0 Mar 29  2022 ready_to_be_removed
+-rw-r--r-- 1 root root 13 Mar 29  2022 school
+/root
