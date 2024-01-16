@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1705436798,,"wq"
+|2,0,1705438266,,"wq"
 :WQ
 |2,0,1704735439,,"WQ"
 :wq 8-concat_edges.py
@@ -61,34 +61,46 @@
 |3,1,36,0,1,0,1700570964," "
 
 # File marks:
-'0  1  0  ~/monty/README.md
-|4,48,1,0,1705436798,"~/monty/README.md"
-'1  14  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,49,14,5,1705388420,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
-'2  1  211  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,50,1,211,1705388268,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
-'3  12  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,51,12,5,1705388268,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
-'4  1  171  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,52,1,171,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
-'5  1  184  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,53,1,184,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+'0  2  0  ~/monty/README.md
+|4,48,2,0,1705438266,"~/monty/README.md"
+'1  1  0  ~/monty/README.md
+|4,49,1,0,1705436798,"~/monty/README.md"
+'2  1  0  ~/monty/README.md
+|4,50,1,0,1705436798,"~/monty/README.md"
+'3  14  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,51,14,5,1705388420,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+'4  1  211  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,52,1,211,1705388268,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+'5  12  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,53,12,5,1705388268,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 '6  1  171  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 |4,54,1,171,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
-'7  10  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
-|4,55,10,5,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
-'8  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
-|4,56,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
-'9  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,57,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
+'7  1  184  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,55,1,184,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+'8  1  171  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,56,1,171,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+'9  10  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,57,10,5,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 
 # Jumplist (newest first):
+-'  2  0  ~/monty/README.md
+|4,39,2,0,1705438266,"~/monty/README.md"
+-'  1  0  ~/monty/README.md
+|4,39,1,0,1705438252,"~/monty/README.md"
 -'  1  0  ~/monty/README.md
 |4,39,1,0,1705436798,"~/monty/README.md"
 -'  14  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 |4,39,14,5,1705388420,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  14  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 |4,39,14,5,1705388420,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  14  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,14,5,1705388420,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  14  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,14,5,1705388420,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  211  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,211,1705388343,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  211  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,211,1705388343,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  1  211  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 |4,39,1,211,1705388343,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  1  211  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
@@ -97,6 +109,14 @@
 |4,39,12,5,1705388268,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  12  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 |4,39,12,5,1705388268,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  12  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,12,5,1705388268,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  12  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,12,5,1705388268,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  171  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,171,1705388237,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  171  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,171,1705388237,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  1  171  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 |4,39,1,171,1705388237,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  1  171  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
@@ -105,6 +125,14 @@
 |4,39,10,5,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  10  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 |4,39,10,5,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  10  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,10,5,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  10  5  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,10,5,1705388159,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  54  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,54,1705388043,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
+-'  1  54  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
+|4,39,1,54,1705388043,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  1  54  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 |4,39,1,54,1705388043,"~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh"
 -'  1  54  ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
@@ -141,6 +169,70 @@
 |4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
 -'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
 |4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  24  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,24,0,1705349026,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
+-'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
+|4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
 -'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
 |4,39,1,0,1705349009,"~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c"
 -'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/0-main.c
@@ -191,104 +283,15 @@
 |4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
 -'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
 |4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  205  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,205,0,1705348956,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
--'  1  0  ~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c
-|4,39,1,0,1705348941,"~/alx-low_level_programming/0x18-dynamic_libraries/libdynamic.c"
 
 # History of marks within files (newest to oldest):
 
 > ~/monty/README.md
-	*	1705436796	0
-	"	1	0
+	*	1705438263	0
+	"	2	0
+	^	2	0
+	.	2	0
+	+	2	0
 
 > ~/alx-low_level_programming/0x18-dynamic_libraries/1-create_dynamic_lib.sh
 	*	1705388417	0
