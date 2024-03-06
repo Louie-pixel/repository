@@ -3,4 +3,4 @@
 	name = Louie-pixel
 	password = Louie@1234
 [credential]
-	helper = cache
+	helper = cache --timeout=600
