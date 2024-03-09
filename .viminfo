@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1709709578,,"wq"
+|2,0,1709977191,,"wq"
 :w
 |2,0,1709709305,,"w"
 :x
@@ -83,230 +83,269 @@
 |3,1,36,0,1,0,1700570964," "
 
 # File marks:
-'0  7  54  ~/.git/config
-|4,48,7,54,1709709578,"~/.git/config"
-'1  7  54  ~/.git/config
-|4,49,7,54,1709709431,"~/.git/config"
-'2  7  94  ~/AirBnB_clone/.git/config
-|4,50,7,94,1709709309,"~/AirBnB_clone/.git/config"
-'3  1  0  ~/AirBnB_clone/.git/config
-|4,51,1,0,1709707749,"~/AirBnB_clone/.git/config"
-'4  1  0  ~/AirBnB_clone/.git/config
-|4,52,1,0,1709707749,"~/AirBnB_clone/.git/config"
-'5  7  54  ~/.git/config
-|4,53,7,54,1709639866,"~/.git/config"
-'6  7  54  ~/.git/config
-|4,54,7,54,1709639866,"~/.git/config"
-'7  1  30  ~/AirBnB_clone/README.md
-|4,55,1,30,1709639189,"~/AirBnB_clone/README.md"
-'8  1  0  ~/README.md
-|4,56,1,0,1709638376,"~/README.md"
-'9  1  0  ~/README.me
-|4,57,1,0,1709638317,"~/README.me"
+'0  1  0  ~/AirBnB_clone/.git/MERGE_MSG
+|4,48,1,0,1709977191,"~/AirBnB_clone/.git/MERGE_MSG"
+'1  242  27  ~/AirBnB_clone/console.py
+|4,49,242,27,1709976997,"~/AirBnB_clone/console.py"
+'2  210  8  ~/AirBnB_clone/console.py
+|4,50,210,8,1709976951,"~/AirBnB_clone/console.py"
+'3  210  8  ~/AirBnB_clone/console.py
+|4,51,210,8,1709976951,"~/AirBnB_clone/console.py"
+'4  1  13  ~/AirBnB_clone/README.md
+|4,52,1,13,1709976768,"~/AirBnB_clone/README.md"
+'5  1  15  ~/AirBnB_clone/AUTHORS
+|4,53,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+'6  1  26  ~/AirBnB_clone/tests/README.md
+|4,54,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+'7  1  4  ~/AirBnB_clone/READme.md
+|4,55,1,4,1709709813,"~/AirBnB_clone/READme.md"
+'8  7  54  ~/.git/config
+|4,56,7,54,1709709578,"~/.git/config"
+'9  7  54  ~/.git/config
+|4,57,7,54,1709709431,"~/.git/config"
 
 # Jumplist (newest first):
--'  7  54  ~/.git/config
-|4,39,7,54,1709709578,"~/.git/config"
--'  7  54  ~/.git/config
-|4,39,7,54,1709709431,"~/.git/config"
--'  7  94  ~/AirBnB_clone/.git/config
-|4,39,7,94,1709709309,"~/AirBnB_clone/.git/config"
--'  7  94  ~/AirBnB_clone/.git/config
-|4,39,7,94,1709709309,"~/AirBnB_clone/.git/config"
--'  7  94  ~/AirBnB_clone/.git/config
-|4,39,7,94,1709709309,"~/AirBnB_clone/.git/config"
--'  7  94  ~/AirBnB_clone/.git/config
-|4,39,7,94,1709709309,"~/AirBnB_clone/.git/config"
--'  1  0  ~/AirBnB_clone/.git/config
-|4,39,1,0,1709709255,"~/AirBnB_clone/.git/config"
--'  1  0  ~/AirBnB_clone/.git/config
-|4,39,1,0,1709709255,"~/AirBnB_clone/.git/config"
--'  1  0  ~/AirBnB_clone/.git/config
-|4,39,1,0,1709709255,"~/AirBnB_clone/.git/config"
--'  1  0  ~/AirBnB_clone/.git/config
-|4,39,1,0,1709709255,"~/AirBnB_clone/.git/config"
--'  1  0  ~/AirBnB_clone/.git/config
-|4,39,1,0,1709707749,"~/AirBnB_clone/.git/config"
--'  1  0  ~/AirBnB_clone/.git/config
-|4,39,1,0,1709707749,"~/AirBnB_clone/.git/config"
--'  1  0  ~/AirBnB_clone/.git/config
-|4,39,1,0,1709707749,"~/AirBnB_clone/.git/config"
--'  1  0  ~/AirBnB_clone/.git/config
-|4,39,1,0,1709707749,"~/AirBnB_clone/.git/config"
--'  7  54  ~/.git/config
-|4,39,7,54,1709639866,"~/.git/config"
--'  7  54  ~/.git/config
-|4,39,7,54,1709639866,"~/.git/config"
--'  7  54  ~/.git/config
-|4,39,7,54,1709639866,"~/.git/config"
--'  7  54  ~/.git/config
-|4,39,7,54,1709639866,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1709639762,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1709639762,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1709639762,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1709639762,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1709639762,"~/.git/config"
--'  1  0  ~/.git/config
-|4,39,1,0,1709639762,"~/.git/config"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  30  ~/AirBnB_clone/README.md
-|4,39,1,30,1709639189,"~/AirBnB_clone/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
--'  1  0  ~/README.md
-|4,39,1,0,1709638376,"~/README.md"
+-'  1  0  ~/AirBnB_clone/.git/MERGE_MSG
+|4,39,1,0,1709977191,"~/AirBnB_clone/.git/MERGE_MSG"
+-'  242  27  ~/AirBnB_clone/console.py
+|4,39,242,27,1709976997,"~/AirBnB_clone/console.py"
+-'  242  27  ~/AirBnB_clone/console.py
+|4,39,242,27,1709976997,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1709976975,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1709976975,"~/AirBnB_clone/console.py"
+-'  210  8  ~/AirBnB_clone/console.py
+|4,39,210,8,1709976951,"~/AirBnB_clone/console.py"
+-'  210  8  ~/AirBnB_clone/console.py
+|4,39,210,8,1709976951,"~/AirBnB_clone/console.py"
+-'  210  8  ~/AirBnB_clone/console.py
+|4,39,210,8,1709976951,"~/AirBnB_clone/console.py"
+-'  210  8  ~/AirBnB_clone/console.py
+|4,39,210,8,1709976951,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1709976930,"~/AirBnB_clone/console.py"
+-'  1  0  ~/AirBnB_clone/console.py
+|4,39,1,0,1709976930,"~/AirBnB_clone/console.py"
+-'  1  13  ~/AirBnB_clone/README.md
+|4,39,1,13,1709976768,"~/AirBnB_clone/README.md"
+-'  1  13  ~/AirBnB_clone/README.md
+|4,39,1,13,1709976768,"~/AirBnB_clone/README.md"
+-'  1  13  ~/AirBnB_clone/README.md
+|4,39,1,13,1709976768,"~/AirBnB_clone/README.md"
+-'  1  13  ~/AirBnB_clone/README.md
+|4,39,1,13,1709976768,"~/AirBnB_clone/README.md"
+-'  1  13  ~/AirBnB_clone/README.md
+|4,39,1,13,1709976768,"~/AirBnB_clone/README.md"
+-'  1  13  ~/AirBnB_clone/README.md
+|4,39,1,13,1709976768,"~/AirBnB_clone/README.md"
+-'  1  13  ~/AirBnB_clone/README.md
+|4,39,1,13,1709976768,"~/AirBnB_clone/README.md"
+-'  1  13  ~/AirBnB_clone/README.md
+|4,39,1,13,1709976768,"~/AirBnB_clone/README.md"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  15  ~/AirBnB_clone/AUTHORS
+|4,39,1,15,1709976748,"~/AirBnB_clone/AUTHORS"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  26  ~/AirBnB_clone/tests/README.md
+|4,39,1,26,1709710754,"~/AirBnB_clone/tests/README.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
+-'  1  4  ~/AirBnB_clone/READme.md
+|4,39,1,4,1709709813,"~/AirBnB_clone/READme.md"
 
 # History of marks within files (newest to oldest):
+
+> ~/AirBnB_clone/.git/MERGE_MSG
+	*	1709977186	0
+	"	1	0
+
+> ~/AirBnB_clone/console.py
+	*	1709976993	0
+	"	242	27
+	^	242	35
+	.	242	34
+	+	242	34
+
+> ~/AirBnB_clone/README.md
+	*	1709976766	0
+	"	1	13
+	^	1	31
+	.	1	30
+	+	1	30
+
+> ~/AirBnB_clone/AUTHORS
+	*	1709976746	0
+	"	1	15
+	^	1	16
+	.	1	15
+	+	1	15
+
+> ~/AirBnB_clone/tests/README.md
+	*	1709710752	0
+	"	1	26
+	^	1	27
+	.	1	26
+	+	1	26
+
+> ~/AirBnB_clone/READme.md
+	*	1709709811	0
+	"	1	4
+	^	1	5
+	.	1	4
+	+	1	4
 
 > ~/.git/config
 	*	1709709576	0
@@ -321,13 +360,6 @@
 	^	7	95
 	.	8	0
 	+	8	0
-
-> ~/AirBnB_clone/README.md
-	*	1709639186	0
-	"	1	30
-	^	1	31
-	.	1	30
-	+	1	30
 
 > ~/README.md
 	*	1709638374	0
@@ -973,38 +1005,3 @@
 	^	17	28
 	.	17	27
 	+	17	27
-
-> ~/alx-higher_level_programming/100-my_int.py
-	*	1707159290	0
-	"	14	32
-	^	14	33
-	.	14	32
-	+	14	32
-
-> ~/alx-higher_level_programming/11-square.py
-	*	1707159222	0
-	"	17	25
-	^	17	26
-	.	17	25
-	+	17	25
-
-> ~/alx-higher_level_programming/10-square.py
-	*	1707159149	0
-	"	17	25
-	^	17	26
-	.	17	25
-	+	17	25
-
-> ~/alx-higher_level_programming/9-rectangle.py
-	*	1707159114	0
-	"	29	20
-	^	29	21
-	.	29	20
-	+	29	20
-
-> ~/alx-higher_level_programming/8-rectangle.py
-	*	1707159078	0
-	"	19	29
-	^	19	30
-	.	19	29
-	+	19	29
